@@ -3,7 +3,7 @@
 #question_one_ss
 
 [Output1](screenshots/ques1.png)
-[Output2](screenshots/ques1.png)
+[Output2](screenshots/ques1a.png)
 
 
 #question_two_ss
