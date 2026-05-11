@@ -1,0 +1,457 @@
+===================================================================
+         HOUSES OF ICE AND FIRE  (Alphabetical Order)
+===================================================================
+  Generated : 2026-05-11  19:58:23
+  Total     : 444 houses
+===================================================================
+
+  No.   House Name                                Region           
+  ───────────────────────────────────────────────────────────────────
+  1     House Algood                              The Westerlands  
+  2     House Allyrion of Godsgrace               Dorne            
+  3     House Amber                               The North        
+  4     House Ambrose                             The Reach        
+  5     House Appleton of Appleton                The Reach        
+  6     House Arryn of Gulltown                   The Vale         
+  7     House Arryn of the Eyrie                  The Vale         
+  8     House Ashford of Ashford                  The Reach        
+  9     House Ashwood                             The North        
+  10    House Baelish of Harrenhal                The Riverlands   
+  11    House Baelish of the Fingers              The Vale         
+  12    House Ball                                The Reach        
+  13    House Banefort of Banefort                The Westerlands  
+  14    House Bar Emmon of Sharp Point            The Crownlands   
+  15    House Baratheon of Dragonstone            The Crownlands   
+  16    House Baratheon of King's Landing         The Crownlands   
+  17    House Baratheon of Storm's End            The Stormlands   
+  18    House Beesbury of Honeyholt               The Reach        
+  19    House Belmore of Strongsong               The Vale         
+  20    House Bettley                             The Westerlands  
+  21    House Bigglestone                         The Riverlands   
+  22    House Blackbar of Bandallon               The Reach        
+  23    House Blackfyre of King's Landing         (No Region)      
+  24    House Blackmont of Blackmont              Dorne            
+  25    House Blackmyre                           The Neck         
+  26    House Blacktyde of Blacktyde              Iron Islands     
+  27    House Blackwood of Raventree Hall         The Riverlands   
+  28    House Blanetree                           The Riverlands   
+  29    House Blount                              The Crownlands   
+  30    House Boggs                               The North        
+  31    House Boggs of Crackclaw Point            The Crownlands   
+  32    House Bole                                The North        
+  33    House Bolling                             The Stormlands   
+  34    House Bolton of the Dreadfort             The North        
+  35    House Borrell of Sweetsister              The Vale         
+  36    House Botley of Lordsport                 Iron Islands     
+  37    House Bracken of Stone Hedge              The Riverlands   
+  38    House Branch                              The North        
+  39    House Branfield                           The North        
+  40    House Brax of Hornvale                    The Westerlands  
+  41    House Breakstone                          The Vale         
+  42    House Briar                               Dorne            
+  43    House Bridges                             The Reach        
+  44    House Brightstone                         The Vale         
+  45    House Brook                               Dorne            
+  46    House Broom                               The Westerlands  
+  47    House Brownhill                           Dorne            
+  48    House Brune of Brownhollow                The Crownlands   
+  49    House Brune of the Dyre Den               The Crownlands   
+  50    House Buckler of Bronzegate               The Stormlands   
+  51    House Buckwell of the Antlers             The Crownlands   
+  52    House Bulwer of Blackcrown                The Reach        
+  53    House Burley                              The North        
+  54    House Bushy                               The Reach        
+  55    House Butterwell                          The Riverlands   
+  56    House Byrch                               The Crownlands   
+  57    House Bywater                             The Crownlands   
+  58    House Cafferen of Fawnton                 The Stormlands   
+  59    House Cargyll                             The Crownlands   
+  60    House Caron of Nightsong                  The Stormlands   
+  61    House Cassel                              The North        
+  62    House Casterly of Casterly Rock           The Westerlands  
+  63    House Caswell of Bitterbridge             The Reach        
+  64    House Cave                                The Crownlands   
+  65    House Celtigar of Claw Isle               The Crownlands   
+  66    House Cerwyn of Cerwyn                    The North        
+  67    House Chambers                            The Riverlands   
+  68    House Charlton                            The Riverlands   
+  69    House Chelsted                            The Crownlands   
+  70    House Chester of Greenshield              The Reach        
+  71    House Chyttering                          The Crownlands   
+  72    House Clegane                             The Westerlands  
+  73    House Clifton                             The Westerlands  
+  74    House Cockshaw                            The Reach        
+  75    House Codd                                Iron Islands     
+  76    House Coldwater of Coldwater Burn         The Vale         
+  77    House Cole                                The Stormlands   
+  78    House Condon                              The North        
+  79    House Conklyn                             The Reach        
+  80    House Connington of Griffin's Roost       The Stormlands   
+  81    House Corbray of Heart's Home             (No Region)      
+  82    House Cordwayner of Hammerhal             The Reach        
+  83    House Costayne of Three Towers            The Reach        
+  84    House Cox of Saltpans                     (No Region)      
+  85    House Crabb                               The Crownlands   
+  86    House Crakehall of Crakehall              The Westerlands  
+  87    House Crane of Red Lake                   The Reach        
+  88    House Cray                                The Neck         
+  89    House Cressey                             The Crownlands   
+  90    House Crowl of Deepdown                   The North        
+  91    House Cuy of Sunhouse                     The Reach        
+  92    House Dalt of Lemonwood                   Dorne            
+  93    House Dargood                             The Crownlands   
+  94    House Darke                               The Crownlands   
+  95    House Darklyn of Duskendale               The Crownlands   
+  96    House Darkwood                            The Crownlands   
+  97    House Darry of Darry                      The Riverlands   
+  98    House Dayne of High Hermitage             Dorne            
+  99    House Dayne of Starfall                   Dorne            
+  100   House Deddings                            The Riverlands   
+  101   House Doggett                             The Westerlands  
+  102   House Dondarrion of Blackhaven            The Stormlands   
+  103   House Donniger                            The Vale         
+  104   House Drinkwater                          Dorne            
+  105   House Drox                                The Westerlands  
+  106   House Drumm of Old Wyk                    Iron Islands     
+  107   House Dryland                             Dorne            
+  108   House Dunn                                The Reach        
+  109   House Durrandon                           The Stormlands   
+  110   House Durwell                             The Reach        
+  111   House Dustin of Barrowton                 The North        
+  112   House Edgerton                            The Crownlands   
+  113   House Egen                                The Vale         
+  114   House Elesham of the Paps                 The Vale         
+  115   House Erenford                            The Riverlands   
+  116   House Errol of Haystack Hall              The Stormlands   
+  117   House Estermont of Greenstone             The Stormlands   
+  118   House Estren of Wyndhall                  The Westerlands  
+  119   House Falwell                             The Westerlands  
+  120   House Farman of Faircastle                The Westerlands  
+  121   House Farring                             The Crownlands   
+  122   House Farwynd of Sealskin Point           Iron Islands     
+  123   House Farwynd of the Lonely Light         Iron Islands     
+  124   House Fell of Felwood                     The Stormlands   
+  125   House Fenn                                The Neck         
+  126   House Ferren                              The Westerlands  
+  127   House Fisher                              The Riverlands   
+  128   House Fisher of the Stony Shore           The North        
+  129   House Flint  of the mountains             The North        
+  130   House Flint of Breakstone Hill            The North        
+  131   House Flint of Flint's Finger             The North        
+  132   House Flint of Widow's Watch              The North        
+  133   House Florent of Brightwater Keep         The Reach        
+  134   House Follard                             The Crownlands   
+  135   House Foote                               The Westerlands  
+  136   House Foote of Nightsong                  The Stormlands   
+  137   House Footly of Tumbleton                 The Reach        
+  138   House Forrester                           The North        
+  139   House Fossoway of Cider Hall              The Reach        
+  140   House Fossoway of New Barrel              The Reach        
+  141   House Fowler of Skyreach                  Dorne            
+  142   House Frey of Riverrun                    The Riverlands   
+  143   House Frey of the Crossing                The Riverlands   
+  144   House Frost                               The North        
+  145   House Gardener of Highgarden              The Reach        
+  146   House Gargalen of Salt Shore              Dorne            
+  147   House Garner                              The Westerlands  
+  148   House Gaunt                               The Crownlands   
+  149   House Glenmore                            The North        
+  150   House Glover of Deepwood Motte            The North        
+  151   House Goodbrook                           The Riverlands   
+  152   House Goodbrother of Corpse Lake          Iron Islands     
+  153   House Goodbrother of Crow Spike Keep      Iron Islands     
+  154   House Goodbrother of Downdelving          Iron Islands     
+  155   House Goodbrother of Hammerhorn           Iron Islands     
+  156   House Goodbrother of Orkmont              Iron Islands     
+  157   House Goodbrother of Shatterstone         Iron Islands     
+  158   House Gower                               The Stormlands   
+  159   House Graceford of Holyhall               The Reach        
+  160   House Grafton of Gulltown                 The Vale         
+  161   House Grandison of Grandview              The Stormlands   
+  162   House Graves                              The Reach        
+  163   House Greenfield of Greenfield            The Westerlands  
+  164   House Greengood                           The Neck         
+  165   House Greenwood                           The North        
+  166   House Grell                               The Riverlands   
+  167   House Grey                                The Riverlands   
+  168   House Greyiron of Orkmont                 Iron Islands     
+  169   House Greyjoy of Pyke                     Iron Islands     
+  170   House Greystark of Wolf's Den             The North        
+  171   House Grimm of Greyshield                 The Reach        
+  172   House Haigh                               The Riverlands   
+  173   House Hamell                              The Westerlands  
+  174   House Harclay                             The North        
+  175   House Hardy                               The Crownlands   
+  176   House Hardyng                             The Vale         
+  177   House Harlaw of Grey Garden               Iron Islands     
+  178   House Harlaw of Harlaw                    Iron Islands     
+  179   House Harlaw of Harlaw Hall               Iron Islands     
+  180   House Harlaw of Harridan Hill             Iron Islands     
+  181   House Harlaw of the Tower of Glimmering   Iron Islands     
+  182   House Harlton                             The Riverlands   
+  183   House Harroway of Harrenhal               The Riverlands   
+  184   House Harte                               The Crownlands   
+  185   House Hastwyck                            The Reach        
+  186   House Hasty                               The Stormlands   
+  187   House Hawick of Saltpans                  The Riverlands   
+  188   House Hawthorne                           The Westerlands  
+  189   House Hayford of Hayford                  The Crownlands   
+  190   House Heddle                              The Riverlands   
+  191   House Herston                             The Stormlands   
+  192   House Hersy of Newkeep                    The Vale         
+  193   House Hetherspoon                         The Westerlands  
+  194   House Hewett of Oakenshield               The Reach        
+  195   House Hightower of the Hightower          The Reach        
+  196   House Hoare of Orkmont                    Iron Islands     
+  197   House Hogg of Sow's Horn                  The Crownlands   
+  198   House Hollard                             The Crownlands   
+  199   House Holt                                Dorne            
+  200   House Holt                                The North        
+  201   House Hook                                The Riverlands   
+  202   House Hornwood of Hornwood                The North        
+  203   House Horpe                               The Stormlands   
+  204   House Hull                                Dorne            
+  205   House Humble                              Iron Islands     
+  206   House Hunt                                The Reach        
+  207   House Hunter of Longbow Hall              The Vale         
+  208   House Hutcheson                           The Reach        
+  209   House Inchfield                           The Reach        
+  210   House Ironmaker                           Iron Islands     
+  211   House Ironsmith                           The North        
+  212   House Jast                                The Westerlands  
+  213   House Jordayne of the Tor                 Dorne            
+  214   House Justman                             The Riverlands   
+  215   House Karstark of Karhold                 The North        
+  216   House Keath                               The Riverlands   
+  217   House Kellington                          The Stormlands   
+  218   House Kenning of Harlaw                   Iron Islands     
+  219   House Kenning of Kayce                    The Westerlands  
+  220   House Kettleblack                         The Crownlands   
+  221   House Kidwell of Ivy Hall                 The Reach        
+  222   House Knott                               The North        
+  223   House Kyndall                             The Westerlands  
+  224   House Ladybright                          Dorne            
+  225   House Lake                                Dorne            
+  226   House Lake                                The North        
+  227   House Langward                            The Crownlands   
+  228   House Lannett                             The Westerlands  
+  229   House Lannister of Casterly Rock          The Westerlands  
+  230   House Lannister of Darry                  The Riverlands   
+  231   House Lannister of Lannisport             The Westerlands  
+  232   House Lanny                               The Westerlands  
+  233   House Lantell                             The Westerlands  
+  234   House Lefford of the Golden Tooth         The Westerlands  
+  235   House Leygood                             The Reach        
+  236   House Liddle                              The North        
+  237   House Lightfoot                           The North        
+  238   House Lipps                               The Vale         
+  239   House Locke of Oldcastle                  The North        
+  240   House Lolliston                           The Riverlands   
+  241   House Long                                The North        
+  242   House Longthorpe of Longsister            The Vale         
+  243   House Longwaters                          The Crownlands   
+  244   House Lonmouth                            The Stormlands   
+  245   House Lorch                               The Westerlands  
+  246   House Lothston of Harrenhal               The Riverlands   
+  247   House Lowther                             The Reach        
+  248   House Lyberr                              The Reach        
+  249   House Lychester                           The Riverlands   
+  250   House Lydden of Deep Den                  The Westerlands  
+  251   House Lynderly of the Snakewood           The Vale         
+  252   House Magnar of Kingshouse                The North        
+  253   House Mallery                             The Crownlands   
+  254   House Mallister of Seagard                The Riverlands   
+  255   House Manderly of White Harbor            The North        
+  256   House Manning                             The Crownlands   
+  257   House Manwoody of Kingsgrave              Dorne            
+  258   House Marbrand of Ashemark                The Westerlands  
+  259   House Marsh                               The North        
+  260   House Massey of Stonedance                The Crownlands   
+  261   House Meadows of Grassy Vale              The Reach        
+  262   House Melcolm of Old Anchor               The Vale         
+  263   House Merlyn of Pebbleton                 Iron Islands     
+  264   House Merryweather of Longtable           The Reach        
+  265   House Mertyns of Mistwood                 The Stormlands   
+  266   House Middlebury                          The Reach        
+  267   House Mollen                              The North        
+  268   House Moore                               The Vale         
+  269   House Mooton of Maidenpool                The Riverlands   
+  270   House Moreland                            The Westerlands  
+  271   House Mormont of Bear Island              The North        
+  272   House Morrigen of Crow's Nest             The Stormlands   
+  273   House Moss                                The North        
+  274   House Mudd of Oldstones                   The Riverlands   
+  275   House Mullendore of Uplands               The Reach        
+  276   House Musgood                             The Stormlands   
+  277   House Myatt                               The Westerlands  
+  278   House Myre of Harlaw                      Iron Islands     
+  279   House Nayland of Hag's Mire               The Riverlands   
+  280   House Netley                              Iron Islands     
+  281   House Norcross                            The Reach        
+  282   House Norrey                              The North        
+  283   House Norridge                            The Reach        
+  284   House Nutt                                The Riverlands   
+  285   House Nymeros Martell of Sunspear         Dorne            
+  286   House Oakheart of Old Oak                 The Reach        
+  287   House Oldflowers                          The Reach        
+  288   House Orkwood of Orkmont                  Iron Islands     
+  289   House Orme                                The Reach        
+  290   House Osgrey of Leafy Lake                The Reach        
+  291   House Osgrey of Standfast                 The Reach        
+  292   House Overton                             The North        
+  293   House Paege                               The Riverlands   
+  294   House Parren                              The Westerlands  
+  295   House Payne                               The Westerlands  
+  296   House Peake of Starpike                   The Reach        
+  297   House Peasebury of Poddingfield           The Stormlands   
+  298   House Peat                                The Neck         
+  299   House Peckledon                           The Westerlands  
+  300   House Penrose of Parchments               The Stormlands   
+  301   House Perryn                              The Riverlands   
+  302   House Piper of Pinkmaiden                 The Riverlands   
+  303   House Plumm                               The Westerlands  
+  304   House Pommingham                          The Reach        
+  305   House Poole                               The North        
+  306   House Prester of Feastfires               The Westerlands  
+  307   House Pryor of Pebble                     The Vale         
+  308   House Pyle                                The Crownlands   
+  309   House Pyne                                The Crownlands   
+  310   House Qoherys of Harrenhal                The Riverlands   
+  311   House Qorgyle of Sandstone                Dorne            
+  312   House Quagg                               The Neck         
+  313   House Rambton                             The Crownlands   
+  314   House Redbeard                            Beyond the Wall  
+  315   House Redding                             The Reach        
+  316   House Redfort of Redfort                  The Vale         
+  317   House Redwyne of the Arbor                The Reach        
+  318   House Reed of Greywater Watch             The Neck         
+  319   House Reyne of Castamere                  The Westerlands  
+  320   House Rhysling                            The Reach        
+  321   House Risley                              The Reach        
+  322   House Rogers of Amberly                   The Stormlands   
+  323   House Rollingford                         The Crownlands   
+  324   House Roote of Lord Harroway's Town       The Riverlands   
+  325   House Rosby of Rosby                      The Crownlands   
+  326   House Rowan of Goldengrove                The Reach        
+  327   House Roxton of the Ring                  The Reach        
+  328   House Royce of Runestone                  The Vale         
+  329   House Royce of the Gates of the Moon      The Vale         
+  330   House Ruthermont                          The Vale         
+  331   House Ruttiger                            The Westerlands  
+  332   House Ryder of the Rills                  The North        
+  333   House Ryger of Willow Wood                The Riverlands   
+  334   House Rykker of Duskendale                The Crownlands   
+  335   House Ryswell of the Rills                The North        
+  336   House Saltcliffe of Saltcliffe            Iron Islands     
+  337   House Santagar of Spottswood              Dorne            
+  338   House Sarsfield of Sarsfield              The Westerlands  
+  339   House Sarwyck                             The Westerlands  
+  340   House Seaworth of Cape Wrath              The Stormlands   
+  341   House Selmy of Harvest Hall               The Stormlands   
+  342   House Serrett of Silverhill               The Westerlands  
+  343   House Serry of Southshield                The Reach        
+  344   House Sharp                               Iron Islands     
+  345   House Shawney                             The Riverlands   
+  346   House Shell                               Dorne            
+  347   House Shell                               The Vale         
+  348   House Shepherd                            Iron Islands     
+  349   House Shermer of Smithyton                The Reach        
+  350   House Shett of Gull Tower                 The Vale         
+  351   House Shett of Gulltown                   The Vale         
+  352   House Slate of Blackpool                  The North        
+  353   House Sloane                              The Reach        
+  354   House Slynt of Harrenhal                  None             
+  355   House Smallwood of Acorn Hall             The Riverlands   
+  356   House Sparr of Great Wyk                  Iron Islands     
+  357   House Spicer of Castamere                 The Westerlands  
+  358   House Stackhouse                          The Reach        
+  359   House Stackspear                          The Westerlands  
+  360   House Staedmon of Broad Arch              The Stormlands   
+  361   House Stane of Driftwood Hall             The North        
+  362   House Stark of Winterfell                 The North        
+  363   House Staunton of Rook's Rest             The Crownlands   
+  364   House Stokeworth of Stokeworth            The Crownlands   
+  365   House Stonehouse of Old Wyk               Iron Islands     
+  366   House Stonetree of Harlaw                 Iron Islands     
+  367   House Stout of Goldgrass                  The North        
+  368   House Strickland                          (No Region)      
+  369   House Strong of Harrenhal                 The Riverlands   
+  370   House Sunderland of the Three Sisters     The Vale         
+  371   House Sunderly of Saltcliffe              Iron Islands     
+  372   House Sunglass of Sweetport Sound         The Crownlands   
+  373   House Swann of Stonehelm                  The Stormlands   
+  374   House Swyft of Cornfield                  The Westerlands  
+  375   House Swygert                             The Stormlands   
+  376   House Tallhart of Torrhen's Square        The North        
+  377   House Tarbeck of Tarbeck Hall             The Westerlands  
+  378   House Targaryen of King's Landing         The Crownlands   
+  379   House Tarly of Horn Hill                  The Reach        
+  380   House Tarth of Evenfall Hall              The Stormlands   
+  381   House Tawney of Orkmont                   Iron Islands     
+  382   House Teague                              The Riverlands   
+  383   House Templeton                           (No Region)      
+  384   House Terrick                             The Riverlands   
+  385   House Thenn                               The North        
+  386   House Thorne                              The Crownlands   
+  387   House Toland of Ghost Hill                Dorne            
+  388   House Tollett of the Grey Glen            The Vale         
+  389   House Torrent of Littlesister             The Vale         
+  390   House Towers                              The North        
+  391   House Towers of Harrenhal                 The Riverlands   
+  392   House Toyne                               The Stormlands   
+  393   House Trant of Gallowsgrey                The Stormlands   
+  394   House Tudbury                             The Stormlands   
+  395   House Tully of Riverrun                   The Riverlands   
+  396   House Turnberry                           The Westerlands  
+  397   House Tyrell of Brightwater Keep          The Reach        
+  398   House Tyrell of Highgarden                The Reach        
+  399   House Uffering                            The Reach        
+  400   House Uller of Hellholt                   Dorne            
+  401   House Umber of the Last Hearth            The North        
+  402   House Upcliff                             The Vale         
+  403   House Vaith of the Red Dunes              Dorne            
+  404   House Vance of Atranta                    The Riverlands   
+  405   House Vance of Wayfarer's Rest            The Riverlands   
+  406   House Varner                              The Reach        
+  407   House Velaryon of Driftmark               The Crownlands   
+  408   House Vikary                              The Westerlands  
+  409   House Volmark                             Iron Islands     
+  410   House Vypren                              (No Region)      
+  411   House Vyrwel of Darkdell                  The Reach        
+  412   House Wade                                Dorne            
+  413   House Wagstaff                            The Stormlands   
+  414   House Waterman                            The North        
+  415   House Waxley of Wickenden                 The Vale         
+  416   House Wayn                                The Riverlands   
+  417   House Waynwood of Ironoaks                The Vale         
+  418   House Weaver                              Iron Islands     
+  419   House Webber of Coldmoat                  The Reach        
+  420   House Wells                               Dorne            
+  421   House Wells                               The North        
+  422   House Wendwater                           The Crownlands   
+  423   House Wensington                          The Stormlands   
+  424   House Westbrook                           The Reach        
+  425   House Westerling of the Crag              The Westerlands  
+  426   House Westford                            The Westerlands  
+  427   House Whent of Harrenhal                  The Riverlands   
+  428   House Whitehill                           The North        
+  429   House Willum                              The Reach        
+  430   House Wode                                The Riverlands   
+  431   House Woodfoot of Bear Island             The North        
+  432   House Woods                               The North        
+  433   House Woodwright                          The Reach        
+  434   House Woolfield                           The North        
+  435   House Wull                                The North        
+  436   House Wydman                              The Vale         
+  437   House Wyl of the Boneway                  Dorne            
+  438   House Wylde of Rain House                 The Stormlands   
+  439   House Wynch of Iron Holt                  Iron Islands     
+  440   House Wythers                             The Reach        
+  441   House Yarwyck                             The Westerlands  
+  442   House Yelshire                            The Reach        
+  443   House Yew                                 The Westerlands  
+  444   House Yronwood of Yronwood                Dorne            
+
+  ───────────────────────────────────────────────────────────────────
+  END OF LIST  |  Total: 444 houses
+===================================================================
